@@ -1,7 +1,3 @@
-<p align="center">
-<img src="./icons/icon.png">
-</p>
-
 # Awesome macOS open source applications
 
 <p align="left">
